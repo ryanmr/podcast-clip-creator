@@ -4,6 +4,8 @@ This helps create a short video clip by pulling the album art, title and series 
 
 This is like Marco's [podcast clip sharing feature in Overcast](https://marco.org/2019/04/27/overcast-clip-sharing). I don't have an iOS device but I do record podcasts, and wanted to share clips in a similar style.
 
+[**Try It Live**](https://podcast-clip-creator.ryanmr.now.sh/) via [Now](https://zeit.co/)
+
 ## Tech
 
 - Canvas

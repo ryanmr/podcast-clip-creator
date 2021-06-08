@@ -4795,11 +4795,6 @@ icss-utils@^4.1.0:
   dependencies:
     postcss "^7.0.14"
 
-id3js@2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/id3js/-/id3js-2.1.1.tgz#0c307d0d2f194bc5fa7a809bbed0b1a93577f16d"
-  integrity sha512-9Gi+sG0RHSa5qn8hkwi2KCl+2jV8YrtiZidXbOO3uLfRAxc2jilRg0fiQ3CbeoAmR7G7ap3RVs1kqUVhIyZaog==
-
 identity-obj-proxy@3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/identity-obj-proxy/-/identity-obj-proxy-3.0.0.tgz#94d2bda96084453ef36fbc5aaec37e0f79f1fc14"
@@ -6232,9 +6227,9 @@ merge-anything@^2.2.4:
     is-what "^3.2.3"
 
 merge-deep@^3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/merge-deep/-/merge-deep-3.0.2.tgz#f39fa100a4f1bd34ff29f7d2bf4508fbb8d83ad2"
-  integrity sha512-T7qC8kg4Zoti1cFd8Cr0M+qaZfOwjlPDEdZIIPPB2JZctjaPM4fX+i7HOId69tAti2fvO6X5ldfYUONDODsrkA==
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/merge-deep/-/merge-deep-3.0.3.tgz#1a2b2ae926da8b2ae93a0ac15d90cd1922766003"
+  integrity sha512-qtmzAS6t6grwEkNrunqTBdn0qKwFgNWvlxUbAV8es9M7Ot1EbyApytCnvE0jALPa46ZpKDUo527kKiaWplmlFA==
   dependencies:
     arr-union "^3.1.0"
     clone-deep "^0.2.4"
